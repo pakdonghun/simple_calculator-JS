@@ -1,1 +1,1 @@
-# chrome_vanilla-JS
+simple_calculator-JS
